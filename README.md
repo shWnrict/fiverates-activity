@@ -18,7 +18,6 @@ Getting Started
 To get started with Ebukmo, follow these steps:
     Clone the repository
     Install dependencies: 
-        npm install
         npm install hardhat @nomiclabs/hardhat-waffle ethereum-waffle chai
     Compile the smart contract: 
         npx hardhat compile
